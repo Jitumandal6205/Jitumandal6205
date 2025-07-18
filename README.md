@@ -4,8 +4,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jitumandal6205&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile_Views-🔵%20Tracking-blue?style=for-the-badge&logo=github&labelColor=181717&color=blue" />
 </p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 [jitukr.169@gmail.com](mailto:jitukr.169@gmail.com)
+- 📞 +91-6207642147
+- 🌐 [GitHub](https://github.com/Jitumandal6205)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-link)
 
 ---
 
@@ -90,15 +99,6 @@ React-based AI tool with:
 
 - 🏫 **Munam Public School, Hazaribagh**  
   Secondary Education
-
----
-
-## 📫 Contact Me
-
-- 📧 [jitukr.169@gmail.com](mailto:jitukr.169@gmail.com)
-- 📞 +91-6207642147
-- 🌐 [GitHub](https://github.com/Jitumandal6205)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-link)
 
 ---
 
