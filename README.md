@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-🔵%20Tracking-blue?style=for-the-badge&logo=github&labelColor=181717&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Jitumandal6205&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 📧 [jitukr.169@gmail.com](mailto:jitukr.169@gmail.com)
 - 📞 +91-6207642147
 - 🌐 [GitHub](https://github.com/Jitumandal6205)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-link)
+- 💼 [LinkedIn](www.linkedin.com/in/jitu-mandal)
 
 ---
 
@@ -55,6 +55,15 @@ Passionate about building **scalable, clean-code solutions** using the latest we
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jitumandal6205&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitumandal6205&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
 
 ---
 
@@ -108,3 +117,4 @@ React-based AI tool with:
 > _“Every bug is just a puzzle waiting to be solved, and every project is a new adventure.”_ 🚀
 
 ---
+     
